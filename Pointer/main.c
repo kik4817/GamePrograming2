@@ -43,6 +43,7 @@
 */
 
 #include <stdio.h>
+#include "lecture.h"
 
 // Call by Value vs Call by Reference
 
@@ -76,9 +77,9 @@ void SwapPreview(int numA, int numB)
 void Swap(int* numA, int* numB)
 {
 	int* temp;
-	temp = numA;
-	numA = numB;
-	numB = temp;
+	temp = *numA;
+	*numA = *numB;
+	*numB = temp;
 	
 }
 
@@ -133,7 +134,7 @@ int main()
 		
 	// Call by Value, Call by Reference
 
-	printf("Call By Value, Call By Reference 예시\n");
+	printf("Call By Value, Call By Reference 예시\n\n");
 
 	int exampleNumber = 10;
 	int* exampleNumberPtr = &exampleNumber;
@@ -141,7 +142,7 @@ int main()
 	CallValue(exampleNumber);
 	printf("CallValue 실행 후 exampleNumber의 값 : %d\n", exampleNumber);
 	CallReference(exampleNumberPtr);
-	printf("CallValue 실행 후 exampleNumber의 값 : %d\n", exampleNumber);
+	printf("CallValue 실행 후 exampleNumber의 값 : %d\n\n", exampleNumber);
 
 
 	// swap을 구현해본다.
@@ -160,7 +161,7 @@ int main()
 
 	// 2가지 방식으로 weaponPower 접근을 할 수 있습니다.
 	printf("무기 공격력 : %d\n", weaponPower);
-	printf("무기 공격력 : %d\n", *saveWeaponDat);
+	printf("무기 공격력 : %d\n\n", *saveWeaponDat);
 
 
 	// Swap 예시
@@ -177,6 +178,5 @@ int main()
 	Swap(&numA, &numB);
 	printf("현제 numA, numB의 값\n");
 	printf("numA : %d, numB : %d\n", numA, numB);
-
 
 }
