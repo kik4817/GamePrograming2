@@ -2,5 +2,5 @@
 
 int main()
 {
-	GetInput(0,0);
+	InputExa();
 }

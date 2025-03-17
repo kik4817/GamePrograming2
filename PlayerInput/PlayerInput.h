@@ -5,3 +5,4 @@
 
 void GetInput(int* playerX, int* playerY);
 
+void InputExa();
