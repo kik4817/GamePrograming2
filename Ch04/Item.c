@@ -31,13 +31,13 @@ void ItemExample()
 {
 	// 배열 타입으로 이름 선언하기
 	//char itemName[10]
-	//char itemName3[1] = "Candy";
+	char itemName4 = "Candy";
 	
 	// 포인터 타입으로 이름 선언하기
 	// char* itemName
-	char* itemName3[3] = { "Candy", "Cooky", "Cake" };
-	for (int i = 0; i < 3; i++)
-	{
-		printf("아이템 이름 : %s\n", itemName3[i]);
-	}
+	char* itemName3[3] = {"Candy", "Cooky", "Cake"};
+	//for (int i = 0; i < 3; i++)
+	//{
+	//	printf("아이템 이름 : %s, 아이템 설명 : %s\n", itemName4, itemName3[1]);
+	//}
 }
