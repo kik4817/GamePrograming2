@@ -19,7 +19,8 @@ void StructExample()
 	
 
 	char playerName[10] = "ABC";
-	Player myPlayer = { playerName, playerPos };
+	Stats playerSt = { 20, 10 };
+	Player myPlayer = { playerName, playerPos, playerSt };
 	ShowPlayerCurrentPos(myPlayer);
 }
 
@@ -34,8 +35,8 @@ void CalculateCircleInfo(Circle circle)
 void ShowPlayerCurrentPos(Player player)
 {
 	printf("플레이어 이름 : %s\n", player.playerName);
-	//printf("플레이어 좌표 : %d, %d\n", player.playerName);
-
+	printf("플레이어 좌표 : %d, %d\n", player.playerPos.xPos, player.playerPos.yPos);
+	printf("플레이어 스탯 : HP : %d, 공격력 : %d\n", player.playerStats.HP, player.playerStats.basePower);
 }
 
 void MovePlayer(Player player)

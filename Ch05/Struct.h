@@ -66,11 +66,18 @@ void CalculateCircleInfo(Circle circle);
 
 // 플레이어의 정보를 출력하는 함수를 만들어보세요.
 
+typedef struct Stats
+{
+	int HP;
+	int basePower;
+
+}Stats;
+
 typedef struct Player
 {
 	char* playerName;
-	Pos playerPos;// 1. 좌표
-	// 2. 스탯
+	Pos playerPos;   // 1. 좌표
+	Stats playerStats; // 2. 스탯
 	// 3. 아이템
 }Player;
 
