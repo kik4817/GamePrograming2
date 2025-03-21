@@ -18,6 +18,7 @@ typedef struct _Player
 
 }Player;
 
+
 void Ch6Example();
 
 void ShowPlayerInfo1(Player player);

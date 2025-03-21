@@ -78,6 +78,14 @@ void ShowPlayerInfo(const Player* playerPtr)
 
 }
 
+void itemPosXY(int X, int Y)
+{
+	COORD pos = { X,Y };
+	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
+}
+
+
+
 void ItemInfo(const Item* itemPtr)
 {
 

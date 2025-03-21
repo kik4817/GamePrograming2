@@ -38,4 +38,6 @@ void GotoXY(int X, int Y);
 
 void ShowPlayerInfo(const Player* playerPtr);
 
+void itemPosXY(int X, int Y);
+
 void ItemInfo(const Item* itemPtr);
