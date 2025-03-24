@@ -57,9 +57,13 @@ int main()
 		GoXYCOORD(itemAPos);
 		printf("☆");
 
+		//GoXYCOORD(itemBPos);
+		//printf("○");
+
 		InteractWithItem(&player, &itemA); // 주소에 데이터가 변경되지 않았다. -> Call by Calue, Ref
 		ShowPlayerItemInfo(&itemA);
-		ShowPlayerItemInfo(&itemB);
+		//ShowPlayerItemInfo(&itemB);
+		//InteractWithItem(&player, &GameItems[2]);
 		//showPlayerAllItemInfo(GameItems, 2);
 
 		// 배열을 매게변수로 받아와서 각가의 데이터에 접근한다.
