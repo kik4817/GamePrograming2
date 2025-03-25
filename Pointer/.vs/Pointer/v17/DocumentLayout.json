@@ -3,25 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Pointer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E27685DE-56D1-44B5-914C-CEA7E4945ADD}|..\\Ch09\\Ch09.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27685DE-56D1-44B5-914C-CEA7E4945ADD}|..\\Ch09\\Ch09.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Item.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27685DE-56D1-44B5-914C-CEA7E4945ADD}|..\\Ch09\\Ch09.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Stage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27685DE-56D1-44B5-914C-CEA7E4945ADD}|..\\Ch09\\Ch09.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\2DimenstionArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27685DE-56D1-44B5-914C-CEA7E4945ADD}|..\\Ch09\\Ch09.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27685DE-56D1-44B5-914C-CEA7E4945ADD}|..\\Ch09\\Ch09.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27685DE-56D1-44B5-914C-CEA7E4945ADD}|..\\Ch09\\Ch09.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\2DimenstionArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C4F193C-4413-42A9-B343-529E476FEDD6}|..\\Ch08\\Ch08.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C4F193C-4413-42A9-B343-529E476FEDD6}|..\\Ch08\\Ch08.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C4F193C-4413-42A9-B343-529E476FEDD6}|..\\Ch08\\Ch08.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C4F193C-4413-42A9-B343-529E476FEDD6}|..\\Ch08\\Ch08.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Stage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C4F193C-4413-42A9-B343-529E476FEDD6}|..\\Ch08\\Ch08.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\MyString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C4F193C-4413-42A9-B343-529E476FEDD6}|..\\Ch08\\Ch08.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C4F193C-4413-42A9-B343-529E476FEDD6}|..\\Ch08\\Ch08.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\MyString.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,97 +34,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Stage.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Stage.c",
-              "RelativeDocumentMoniker": "..\\Ch08\\Stage.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Stage.c",
-              "RelativeToolTip": "..\\Ch08\\Stage.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-24T08:41:52.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Stage.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Stage.h",
-              "RelativeDocumentMoniker": "..\\Ch08\\Stage.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Stage.h",
-              "RelativeToolTip": "..\\Ch08\\Stage.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Item.h",
+              "RelativeDocumentMoniker": "..\\Ch09\\Item.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Item.h",
+              "RelativeToolTip": "..\\Ch09\\Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-24T08:41:43.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Player.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Player.c",
-              "RelativeDocumentMoniker": "..\\Ch08\\Player.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Player.c",
-              "RelativeToolTip": "..\\Ch08\\Player.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-24T07:39:15.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Player.h",
-              "RelativeDocumentMoniker": "..\\Ch08\\Player.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\Player.h",
-              "RelativeToolTip": "..\\Ch08\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-24T07:39:07.677Z",
+              "WhenOpened": "2025-03-25T08:30:28.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MyString.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\MyString.c",
-              "RelativeDocumentMoniker": "..\\Ch08\\MyString.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\MyString.c",
-              "RelativeToolTip": "..\\Ch08\\MyString.c",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCAAAAABAAAAAAAAAA==",
+              "Title": "2DimenstionArray.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\2DimenstionArray.c",
+              "RelativeDocumentMoniker": "..\\Ch09\\2DimenstionArray.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\2DimenstionArray.c",
+              "RelativeToolTip": "..\\Ch09\\2DimenstionArray.c",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-24T07:07:34.032Z",
+              "WhenOpened": "2025-03-25T07:02:35.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MyString.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\MyString.h",
-              "RelativeDocumentMoniker": "..\\Ch08\\MyString.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\MyString.h",
-              "RelativeToolTip": "..\\Ch08\\MyString.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAALAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "2DimenstionArray.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\2DimenstionArray.h",
+              "RelativeDocumentMoniker": "..\\Ch09\\2DimenstionArray.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\2DimenstionArray.h",
+              "RelativeToolTip": "..\\Ch09\\2DimenstionArray.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-24T07:07:22.052Z",
+              "WhenOpened": "2025-03-25T07:02:27.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch09\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\main.c",
+              "RelativeToolTip": "..\\Ch09\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-25T06:59:19.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stage.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Stage.h",
+              "RelativeDocumentMoniker": "..\\Ch09\\Stage.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Stage.h",
+              "RelativeToolTip": "..\\Ch09\\Stage.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-25T07:47:57.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Item.c",
+              "RelativeDocumentMoniker": "..\\Ch09\\Item.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Item.c",
+              "RelativeToolTip": "..\\Ch09\\Item.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-25T08:30:38.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stage.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Stage.c",
+              "RelativeDocumentMoniker": "..\\Ch09\\Stage.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch09\\Stage.c",
+              "RelativeToolTip": "..\\Ch09\\Stage.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-25T07:48:06.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\main.c",
               "RelativeDocumentMoniker": "..\\Ch08\\main.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch08\\main.c",
               "RelativeToolTip": "..\\Ch08\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-24T07:05:11.353Z",
+              "WhenOpened": "2025-03-25T07:43:27.599Z",
               "EditorCaption": ""
             }
           ]

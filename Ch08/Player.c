@@ -29,7 +29,7 @@ void SetPlayer(Player* player, const char* name)
 	}
 
 	strcpy_s(player->name, NAMELENGTH, name);
-
+	
 	
 
 }

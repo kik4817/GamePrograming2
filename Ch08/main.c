@@ -88,4 +88,5 @@ int main()
 		printf("%s\n", stage1[i]);
 	}
 	
+
 }
