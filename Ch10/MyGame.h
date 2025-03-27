@@ -3,14 +3,14 @@
 #include "ConsoleGame.h"
 
 // GetAsync키 실제로 이동하는 것
-typedef struct MyPlayerPos
+typedef struct _MyPlayerPos
 {
-	int X;
-	int Y;
+	COORD pos;
 
 }MyPlayerPos;
 
-void PlayerConsoleMove(MyPlayerPos playerpos);
+void SetPlayerAsy(MyPlayerPos* playerPos);
+void ShowPlayerConcole(MyPlayerPos* playerPos);
 
 // item.h
 // item 2차원 배열을 가져와서 특정 좌표에 출력하기

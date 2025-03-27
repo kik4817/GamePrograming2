@@ -21,7 +21,7 @@ void GetPlayerInput(Player* playerPtr)
 		{
 			playerPtr->pos.Y += 1;
 		}
-
+		
 	}
 }
 
