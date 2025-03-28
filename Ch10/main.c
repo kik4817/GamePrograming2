@@ -10,6 +10,12 @@
 	주 제 : 열거형 만들기
 */
 
+/*
+	작성일 : 2025-03-28
+	작성자 : 김인국
+	주 제 : C언어 콘솔게임 제작
+*/
+
 #include "ConsoleGame.h"
 #include "Stage.h"
 #include "MyGame.h"
@@ -40,7 +46,7 @@ int main()
 	//ShowPlayerConcole();
 
 	// 스테이지에 포함된 문자를 출력하는 예시
-	COORD tempPos = { 1,10 };
+	COORD tempPos = { 1,1 };
 	char tempchar = ReturnValueFromStage(Stage1, tempPos);
 	printf("스테이지의 특정 좌표 문자 : %c\n", tempchar);
 

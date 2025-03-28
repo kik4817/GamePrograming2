@@ -22,7 +22,7 @@ typedef enum _COLOR // 열거형
 
 typedef enum _Race
 {
-	HUMAN, ORC, TROLL
+	HUMAN = 1, ORC, TROLL
 }RACE;
 
 typedef struct _Player // 구조체
@@ -35,9 +35,11 @@ typedef struct _Player // 구조체
 // Player | Player* 크기가 줄어든다
 void GetPlayerName(Player player); //, COORD playerPos
 void SetPlayerName(Player* playerPtr);
-
 void SetPlayerInput(Player* playerPtr);
+void SetPlayerRace(Player* playerPtr);
+
+void SetPlayer(Player* playerPtr);
 
 void SelectColor(COLOR color);
 
-void ShowPlayerInfo(Player* playerPtr);
+void ShowPlayerInfo(Player* playerPtr, COORD uiPos);
