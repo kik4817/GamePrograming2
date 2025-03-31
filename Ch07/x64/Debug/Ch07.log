@@ -1,6 +1,4 @@
 ﻿  main.c
-C:\Users\Administrator\Desktop\GamePrograming2\Ch07\main.c(66,29): warning C4047: '함수': 'Item *'의 간접 참조 수준이 'Item **'과(와) 다릅니다.
-C:\Users\Administrator\Desktop\GamePrograming2\Ch07\main.c(66,29): warning C4024: 'InteractWithItem': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
-C:\Users\Administrator\Desktop\GamePrograming2\Ch07\main.c(67,25): warning C4047: '함수': 'Item *'의 간접 참조 수준이 'Item *[2]'과(와) 다릅니다.
-C:\Users\Administrator\Desktop\GamePrograming2\Ch07\main.c(67,25): warning C4024: 'showPlayerAllItemInfo': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
-  Ch07.vcxproj -> C:\Users\Administrator\Desktop\GamePrograming2\Pointer\x64\Debug\Ch07.exe
+  player.c
+  코드를 생성하고 있습니다...
+  Ch07.vcxproj -> C:\Users\kik48\Desktop\GamePrograming2\Pointer\x64\Debug\Ch07.exe

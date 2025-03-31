@@ -131,11 +131,13 @@
     <ClCompile Include="MAP.c" />
     <ClCompile Include="OPTION.c" />
     <ClCompile Include="PLAYER.c" />
+    <ClCompile Include="START.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MAP.h" />
     <ClInclude Include="OPTION.h" />
     <ClInclude Include="PLAYER.h" />
+    <ClInclude Include="START.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

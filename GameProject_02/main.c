@@ -1,6 +1,6 @@
-#include "OPTION.h"
+#include "START.h"
 
 int main()
 {
-	
+	GameStar();
 }
