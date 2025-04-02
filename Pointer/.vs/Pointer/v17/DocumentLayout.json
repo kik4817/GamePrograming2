@@ -6,13 +6,13 @@
       "AbsoluteMoniker": "D:0:0:{C4F0B925-FCEB-4681-A3C3-6587EFB3CCFC}|..\\Ch12\\Ch12.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch12\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44FF01AF-0AB8-4E37-8B6A-A17B0305E308}|..\\Ch11\\Ch11.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch11\\FileHandler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4F0B925-FCEB-4681-A3C3-6587EFB3CCFC}|..\\Ch12\\Ch12.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch12\\Rank.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4F0B925-FCEB-4681-A3C3-6587EFB3CCFC}|..\\Ch12\\Ch12.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch12\\Rank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FF01AF-0AB8-4E37-8B6A-A17B0305E308}|..\\Ch11\\Ch11.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch11\\FileHandler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44FF01AF-0AB8-4E37-8B6A-A17B0305E308}|..\\Ch11\\Ch11.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch11\\FileHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -50,31 +50,30 @@
               "RelativeToolTip": "main.c",
               "ViewState": "AgIAABcAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-01T08:24:03.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T08:24:03.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Rank.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch12\\Rank.c",
               "RelativeDocumentMoniker": "..\\Ch12\\Rank.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch12\\Rank.c",
               "RelativeToolTip": "..\\Ch12\\Rank.c",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwCwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAUwLIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-01T07:04:21.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Rank.h",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch12\\Rank.h",
               "RelativeDocumentMoniker": "..\\Ch12\\Rank.h",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch12\\Rank.h",
               "RelativeToolTip": "..\\Ch12\\Rank.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-01T07:04:12.74Z",
               "EditorCaption": ""
@@ -87,7 +86,7 @@
               "RelativeDocumentMoniker": "..\\Ch12\\main.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch12\\main.c",
               "RelativeToolTip": "..\\Ch12\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-01T07:00:59.115Z",
               "EditorCaption": ""
@@ -106,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FileHandler.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Ch11\\FileHandler.c",
               "RelativeDocumentMoniker": "..\\Ch11\\FileHandler.c",
@@ -114,8 +113,7 @@
               "RelativeToolTip": "..\\Ch11\\FileHandler.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-31T07:54:36.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T07:54:36.754Z"
             },
             {
               "$type": "Document",
@@ -127,8 +125,7 @@
               "RelativeToolTip": "..\\Ch11\\FileHandler.h",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-31T07:54:27.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T07:54:27.594Z"
             },
             {
               "$type": "Document",
@@ -152,8 +149,7 @@
               "RelativeToolTip": "..\\Ch11\\main.c",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-31T07:01:06.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T07:01:06.168Z"
             }
           ]
         }

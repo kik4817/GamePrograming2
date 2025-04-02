@@ -25,3 +25,9 @@ int LoadRank(const char* fileName, Rank rank[]); // 메모장에 저장된 count를 반환
 void PrintRanking(Rank rank[], int count); // count수 만큼 랭킹을 출력하는 함수
 
 void AddRank(Rank rank[], int* order, const char* name, int score);
+
+void AddRankData(Rank rank[], int* order);
+
+void DeleteRankData(Rank rank[], int* order, int index); // 컴퓨터는 갯수를 모르기때문에 최대치를 표현
+
+int FineMaxIndex(Rank rank[], int size); 
