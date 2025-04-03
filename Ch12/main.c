@@ -80,8 +80,11 @@ int main()
 		case 1: system("cls");AddRankData(ranks, &order);system("cls"); break;
 		case 2: system("cls");PrintRanking(ranks, order);break;
 		case 3: FileSave(RANKFILEPATH, ranks, order); return;
-		case 4: DeleteRankData(ranks, &order, 1);break;
+		case 4: 
+			DeleteRankData(ranks, &order, 1);
+			break;
 		case 5: 
+			system("cls");
 			firstRank = FineMaxIndex(ranks, order);
 			printf("랭킹 1위\n이름 : %s 점수 : %d\n", ranks[firstRank].name, ranks[firstRank].score);
 			break;
