@@ -6,7 +6,7 @@ void GOTOXY(int x, int y)
 	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
 }
 
-void setTitle(char(*title)[MAP_WIDTH + 1], COORD titlePos)
+void setTitle(char(*map)[MAP_WIDTH + 1], COORD titlePos)
 {
 	for (int i = 0; i < MAP_HEIGHT; i++)
 	{
@@ -18,7 +18,7 @@ void setTitle(char(*title)[MAP_WIDTH + 1], COORD titlePos)
 
 void ShowTitle()
 {
-	COORD titlePos = { 10,10 };
+	COORD titlePos = { 10,5 };
 	setTitle(title, titlePos);
 	Sleep(1000);
 	system("cls");
@@ -40,11 +40,11 @@ void ShowInfoUI(COORD infoUIPos)
 	printf("보스를 잡으면 게임이 클리어 됩니다.");
 }
 
-void ShowMap(char(*map)[MAP_WIDTH + 1], COORD pos)
+void ShowMap(char(*map)[MAP_WIDTH + 1], COORD MapPos)
 {
 	for (int i = 0; i < MAP_HEIGHT; i++)
 	{
-		GOTOXY(pos.X, pos.Y + i);
+		GOTOXY(MapPos.X, MapPos.Y + i);
 		printf("%s", map[i]);
 	}
 }

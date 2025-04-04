@@ -4,4 +4,4 @@
 #include "MAP.h"
 #include "PLAYER.h"
 
-void GameStar();
+void GameStart();

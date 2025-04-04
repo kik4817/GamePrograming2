@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ITEM.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="MAP.c" />
     <ClCompile Include="OPTION.c" />
@@ -134,6 +135,7 @@
     <ClCompile Include="START.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ITEM.h" />
     <ClInclude Include="MAP.h" />
     <ClInclude Include="OPTION.h" />
     <ClInclude Include="PLAYER.h" />

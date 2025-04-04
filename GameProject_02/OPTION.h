@@ -10,9 +10,7 @@
 
 void GOTOXY(int x, int y);
 
-
-
-void setTitle(char(*title)[MAP_WIDTH + 1], COORD titlePos);
+void setTitle(char(*map)[MAP_WIDTH + 1], COORD titlePos);
 
 void ShowTitle();
 

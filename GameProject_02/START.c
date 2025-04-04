@@ -1,20 +1,20 @@
 #include "START.h"
 
-void GameStar()
-{
-	ShowTitle();
-
+void GameStart()
+{	
 	PLAYER player;
 	COORD playerPos = { 1,1 };
-	SetPlayerName(&player);
-
 	COORD mapPos = { 0,0 };
+		
+	SetPlayerName(&player);
 	ShowMap(map1, mapPos);
 	
 	player.pos = PLAYERCOORD(playerPos, mapPos);
 
 	COORD infoPos = { 50,0 };
 	COORD uiPos = { 50,10 };
+
+
 
 	while (true)
 	{

@@ -3,7 +3,7 @@
 
 void SetPlayerName(PLAYER* playerPtr)
 {
-	printf("이름을 입력해주세요.\n");
+	printf("플레이어의 이름을 입력해주세요.\n");
 	char* inputName = malloc(sizeof(inputName));
 	scanf_s("%s", inputName, 10);
 	playerPtr->name = inputName;
@@ -45,7 +45,7 @@ void ShowPlayerUI(PLAYER* playerPtr, COORD UIPos)
 	printf("이름 : %s", playerPtr->name);
 }
 
-BOOL MoveTo(COORD pos1, COORD pos2)
+BOOL MoveTo(COORD pos1, COORD pos2, char NextStage)
 {
 	if (pos1.X == pos2.X && pos1.Y == pos2.Y)
 	{
@@ -57,7 +57,7 @@ BOOL MoveTo(COORD pos1, COORD pos2)
 	}
 }
 
-void ShowMoveTo(char(*map)[MAP_WIDTH + 1], PLAYER* playerPtr, char moveTo)
+void ShowMoveTo(MAP* map, PLAYER* playerPtr, char moveTo)
 {
 	
 }
