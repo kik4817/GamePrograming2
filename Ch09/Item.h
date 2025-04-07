@@ -14,7 +14,7 @@ typedef struct _ITEM
 {
 	char* itemName;
 	int itemstats;
-	char (*itemImage)[ITEM_ROW + 1]
+	char (*itemImage)[ITEM_ROW + 1];
 }ITEM;
 
 void ExampleItem(ITEM* item, int itemindex);

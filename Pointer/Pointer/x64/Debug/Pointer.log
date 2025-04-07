@@ -1,2 +1,2 @@
 ﻿  main.c
-C:\Users\Administrator\Desktop\GamePrograming2\Pointer\main.c(46,10): error C1083: 포함 파일을 열 수 없습니다. 'lecture.h': No such file or directory
+C:\Users\kik48\Desktop\GamePrograming2\Pointer\main.c(46,10): error C1083: 포함 파일을 열 수 없습니다. 'lecture.h': No such file or directory

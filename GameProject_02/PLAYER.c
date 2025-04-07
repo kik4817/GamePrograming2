@@ -16,23 +16,35 @@ void SetPlayerInput(PLAYER* playerPtr)
 	{
 		if (GetAsyncKeyState(VK_LEFT))
 		{
-			playerPtr->pos.X -= 1;			
+			playerPtr->pos.X -= 1;
+			if (playerPtr->pos.X <= 0)
+			{
+				playerPtr->pos.X = 1;
+			}
 		}
 		else if (GetAsyncKeyState(VK_RIGHT))
 		{
 			playerPtr->pos.X += 1;
-			if (playerPtr->pos.X >= MAP_WIDTH)
+			if (playerPtr->pos.X >= MAP_WIDTH-1)
 			{
-				playerPtr->pos.X = 19;
+				playerPtr->pos.X = 18;
 			}
 		}
 		else if (GetAsyncKeyState(VK_UP))
 		{
 			playerPtr->pos.Y -= 1;
+			if (playerPtr->pos.Y <= 0)
+			{
+				playerPtr->pos.Y = 1;
+			}
 		}
 		else if (GetAsyncKeyState(VK_DOWN))
 		{
 			playerPtr->pos.Y += 1;
+			if (playerPtr->pos.Y >= MAP_HEIGHT-1)
+			{
+				playerPtr->pos.Y = 8;
+			}
 		}
 	}
 }
@@ -42,22 +54,5 @@ void ShowPlayerUI(PLAYER* playerPtr, COORD UIPos)
 	GOTOXY(UIPos.X, UIPos.Y);
 	printf("플레이어 정보");
 	GOTOXY(UIPos.X, UIPos.Y+1);
-	printf("이름 : %s", playerPtr->name);
-}
-
-BOOL MoveTo(COORD pos1, COORD pos2, char NextStage)
-{
-	if (pos1.X == pos2.X && pos1.Y == pos2.Y)
-	{
-		return true;
-	}
-	else
-	{
-		return false;
-	}
-}
-
-void ShowMoveTo(MAP* map, PLAYER* playerPtr, char moveTo)
-{
-	
+	printf("이름 : %s", playerPtr->name);	
 }

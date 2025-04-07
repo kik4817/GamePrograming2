@@ -9,6 +9,7 @@ int main()
 	printf("1. 게임 시작\n2. 게임 종료\n");
 	int input = 0;
 	scanf("%d", &input);
+
 	switch (input)
 	{
 	case 1: GameStart(); break;

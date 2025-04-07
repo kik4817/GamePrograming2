@@ -130,16 +130,22 @@
     <ClCompile Include="ITEM.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="MAP.c" />
+    <ClCompile Include="MONEY.c" />
     <ClCompile Include="OPTION.c" />
     <ClCompile Include="PLAYER.c" />
     <ClCompile Include="START.c" />
+    <ClCompile Include="TITLE.c" />
+    <ClCompile Include="UI.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ITEM.h" />
     <ClInclude Include="MAP.h" />
+    <ClInclude Include="MONEY.h" />
     <ClInclude Include="OPTION.h" />
     <ClInclude Include="PLAYER.h" />
     <ClInclude Include="START.h" />
+    <ClInclude Include="TITLE.h" />
+    <ClInclude Include="UI.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
