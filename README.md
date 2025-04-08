@@ -5,7 +5,7 @@
 ### [0.01.02] 2025-04-08 프로잭트1에서 사용했던 함수를 구조체로 사용해서 변경
 ### 기능 추가(Added)
 ![1_ 타이틀 이미지](/image/struct.PNG)
-<img src="/img/struct.PNG" width = "400" hight = "300" struct = "제목"></img>
+<img src="/img/struct.PNG" width = "400" hight = "300" title = "제목"></img>
 - 상세 설명
 1. 플레이어를 설정하고 무기를 강화하여 보스를 처리
 2. 플레이어가 무기를 강화하기위해 돈을 벌수 있는 수단을 만듬
