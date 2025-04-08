@@ -24,5 +24,5 @@ void ShowTitle()
 	COORD titlePos = { 10,5 };
 	setTitle(title, titlePos);
 	Sleep(1000);
-	system("cls");
+	system("cls");	
 }

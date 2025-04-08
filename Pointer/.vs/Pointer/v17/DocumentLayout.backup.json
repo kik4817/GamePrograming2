@@ -1,76 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Pointer\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Pointer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\START.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E91F9F-0177-4498-A026-A88AD20BD298}|..\\Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\MyGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E91F9F-0177-4498-A026-A88AD20BD298}|..\\Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\ConsoleGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{651F6FA5-3752-4CE4-B9AC-0ACE3BECD51E}|..\\Ch13\\Ch13.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch13\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E91F9F-0177-4498-A026-A88AD20BD298}|..\\Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E27685DE-56D1-44B5-914C-CEA7E4945ADD}|..\\Ch09\\Ch09.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19E91F9F-0177-4498-A026-A88AD20BD298}|..\\Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37EA3800-6070-4719-BCFF-02FA39D9A300}|..\\GameProject_02\\GameProject_02.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E27685DE-56D1-44B5-914C-CEA7E4945ADD}|..\\Ch09\\Ch09.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{651C3F08-56F2-4F3F-9E6E-CC0A9D3DBD96}|Pointer.vcxproj|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Pointer\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{651C3F08-56F2-4F3F-9E6E-CC0A9D3DBD96}|Pointer.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Pointer\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{651C3F08-56F2-4F3F-9E6E-CC0A9D3DBD96}|Pointer.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\MyGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\ConsoleGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch13\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -80,306 +98,358 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MAP.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\MAP.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c",
-              "RelativeToolTip": "..\\GameProject_02\\MAP.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T10:42:15.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MONEY.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\MONEY.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c",
-              "RelativeToolTip": "..\\GameProject_02\\MONEY.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T12:54:48.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OPTION.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.c",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\OPTION.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.c",
-              "RelativeToolTip": "..\\GameProject_02\\OPTION.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Title": "TITLE.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c",
+              "RelativeDocumentMoniker": "..\\GameProject_02\\TITLE.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c",
+              "RelativeToolTip": "..\\GameProject_02\\TITLE.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T10:46:48.782Z",
+              "WhenOpened": "2025-04-08T07:37:17.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "START.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.c",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\START.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.c",
-              "RelativeToolTip": "..\\GameProject_02\\START.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Title": "MONEY.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c",
+              "RelativeDocumentMoniker": "..\\GameProject_02\\MONEY.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c",
+              "RelativeToolTip": "..\\GameProject_02\\MONEY.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T11:03:52.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PLAYER.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.c",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\PLAYER.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.c*",
-              "RelativeToolTip": "..\\GameProject_02\\PLAYER.c*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T12:02:16.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MAP.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\MAP.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h",
-              "RelativeToolTip": "..\\GameProject_02\\MAP.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T10:41:44.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MONEY.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.h",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\MONEY.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.h",
-              "RelativeToolTip": "..\\GameProject_02\\MONEY.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T12:54:36.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TITLE.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\TITLE.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c",
-              "RelativeToolTip": "..\\GameProject_02\\TITLE.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T10:41:28.246Z",
+              "WhenOpened": "2025-04-08T07:23:39.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\main.c",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\main.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\main.c",
-              "RelativeToolTip": "..\\GameProject_02\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T11:44:10.443Z",
+              "Title": "MAP.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h",
+              "RelativeDocumentMoniker": "..\\GameProject_02\\MAP.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h",
+              "RelativeToolTip": "..\\GameProject_02\\MAP.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-08T07:15:27.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OPTION.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.h",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\OPTION.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.h",
-              "RelativeToolTip": "..\\GameProject_02\\OPTION.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T10:46:06.629Z",
+              "DocumentIndex": 0,
+              "Title": "MAP.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c",
+              "RelativeDocumentMoniker": "..\\GameProject_02\\MAP.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c*",
+              "RelativeToolTip": "..\\GameProject_02\\MAP.c*",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwHoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T07:01:19.709Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\main.c",
+              "RelativeDocumentMoniker": "..\\GameProject_02\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\main.c",
+              "RelativeToolTip": "..\\GameProject_02\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T07:01:14.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "START.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\START.c",
+              "RelativeDocumentMoniker": "..\\GameProject_02\\START.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\GameProject_02\\START.c",
+              "RelativeToolTip": "..\\GameProject_02\\START.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T06:58:27.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MAP.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T10:42:15.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MONEY.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T12:54:48.313Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "MyGame.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\MyGame.c",
-              "RelativeDocumentMoniker": "..\\Ch10\\MyGame.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\MyGame.c",
-              "RelativeToolTip": "..\\Ch10\\MyGame.c",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "OPTION.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T17:27:32.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T10:46:48.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "START.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T11:03:52.201Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ConsoleGame.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\ConsoleGame.c",
-              "RelativeDocumentMoniker": "..\\Ch10\\ConsoleGame.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\ConsoleGame.c",
-              "RelativeToolTip": "..\\Ch10\\ConsoleGame.c",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Title": "PLAYER.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T16:40:30.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T12:02:16.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch13\\main.c",
-              "RelativeDocumentMoniker": "..\\Ch13\\main.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch13\\main.c",
-              "RelativeToolTip": "..\\Ch13\\main.c",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAHgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T14:33:22.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TITLE.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.h",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\TITLE.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.h",
-              "RelativeToolTip": "..\\GameProject_02\\TITLE.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Title": "MAP.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MAP.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T10:41:17.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T10:41:44.303Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "UI.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.c",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\UI.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.c",
-              "RelativeToolTip": "..\\GameProject_02\\UI.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "MONEY.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.h",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\MONEY.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T12:54:36.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TITLE.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T11:23:35.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T10:41:28.246Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\Player.h",
-              "RelativeDocumentMoniker": "..\\Ch10\\Player.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\Player.h",
-              "RelativeToolTip": "..\\Ch10\\Player.h",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T11:38:18.082Z",
-              "EditorCaption": ""
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\main.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\main.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T11:44:10.443Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "PLAYER.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.h",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\PLAYER.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.h",
-              "RelativeToolTip": "..\\GameProject_02\\PLAYER.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Title": "OPTION.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.h",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\OPTION.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T12:55:03.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T10:46:06.629Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "START.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.h",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\START.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.h",
-              "RelativeToolTip": "..\\GameProject_02\\START.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T11:25:06.909Z",
-              "EditorCaption": ""
+              "Title": "MyGame.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\MyGame.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch10\\MyGame.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\MyGame.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch10\\MyGame.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T17:27:32.706Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Item.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.h",
-              "RelativeDocumentMoniker": "..\\Ch09\\Item.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.h",
-              "RelativeToolTip": "..\\Ch09\\Item.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T10:54:49.312Z",
-              "EditorCaption": ""
+              "Title": "ConsoleGame.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\ConsoleGame.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch10\\ConsoleGame.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\ConsoleGame.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch10\\ConsoleGame.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T16:40:30.275Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\main.c",
-              "RelativeDocumentMoniker": "..\\Ch10\\main.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\main.c",
-              "RelativeToolTip": "..\\Ch10\\main.c",
-              "ViewState": "AgIAADUAAAAAAAAAAAApwEgAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch13\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch13\\main.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch13\\main.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch13\\main.c",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAHgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T10:44:40.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T14:33:22.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "UI.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.h",
-              "RelativeDocumentMoniker": "..\\GameProject_02\\UI.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.h",
-              "RelativeToolTip": "..\\GameProject_02\\UI.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Title": "TITLE.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.h",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\TITLE.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T11:23:23.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T10:41:17.347Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Item.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.c",
-              "RelativeDocumentMoniker": "..\\Ch09\\Item.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.c",
-              "RelativeToolTip": "..\\Ch09\\Item.c",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAewB4AAAAAAAAAAAAAAA==",
+              "Title": "UI.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T10:55:01.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T11:23:35.21Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\Player.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch10\\Player.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\Player.h",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch10\\Player.h",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T11:38:18.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PLAYER.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.h",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\PLAYER.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T12:55:03.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "START.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.h",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\START.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T11:25:06.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Item.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.h",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T10:54:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Pointer\\main.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\main.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch10\\main.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch10\\main.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch10\\main.c",
+              "ViewState": "AgIAADUAAAAAAAAAAAApwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T10:44:40.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UI.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.h",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\GameProject_02\\UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-07T11:23:23.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Item.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.c",
+              "RelativeToolTip": "..\\..\\..\\..\\kik48\\Desktop\\GamePrograming2\\Ch09\\Item.c",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T10:55:01.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Pointer\\main.c",
               "RelativeDocumentMoniker": "main.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\GamePrograming2\\Pointer\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming2\\Pointer\\main.c",
               "RelativeToolTip": "main.c",
               "ViewState": "AgIAABkAAAAAAAAAAAApwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T10:44:58.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T10:44:58.996Z"
             }
           ]
         }

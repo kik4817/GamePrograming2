@@ -30,4 +30,4 @@ BOOL MoveToStage(char(*map)[MAP_WIDTH + 1], COORD playerPos, char exitMap);
 
 void NEXTStage(char(*map)[MAP_WIDTH + 1], COORD mapPos);
 
-bool cantMove(char map[MAP_HEIGHT][MAP_WIDTH + 1], COORD playerPos, char cantgo);
+//bool cantMove(char map[MAP_HEIGHT][MAP_WIDTH + 1], COORD playerPos, char cantgo);

@@ -75,7 +75,7 @@ void GetMoney(PLAYER* playerPtr, MONEY* moneyPtr)
 			printf("µ·À» ¹ú¾ú½À´Ï´Ù. : %d\n", moneyPtr->totalMoney);
 			break;
 		case 4:		
-			break;
-		}
+			return;
+		}		
 	}
 }

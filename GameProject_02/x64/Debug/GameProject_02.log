@@ -1,2 +1,6 @@
-﻿  PLAYER.c
-  GameProject_02.vcxproj -> C:\Users\kik48\Desktop\GamePrograming2\Pointer\x64\Debug\GameProject_02.exe
+﻿  MAP.c
+C:\Users\Administrator\Desktop\GamePrograming2\GameProject_02\MAP.c(123,10): warning C4047: '함수': 'char (*)[21]'의 간접 참조 수준이 'IMAGE *'과(와) 다릅니다.
+C:\Users\Administrator\Desktop\GamePrograming2\GameProject_02\MAP.c(123,10): warning C4024: 'ShowMap': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  TITLE.c
+  코드를 생성하고 있습니다...
+  GameProject_02.vcxproj -> C:\Users\Administrator\Desktop\GamePrograming2\Pointer\x64\Debug\GameProject_02.exe
